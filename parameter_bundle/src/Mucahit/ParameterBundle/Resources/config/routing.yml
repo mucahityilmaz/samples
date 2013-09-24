@@ -1,0 +1,7 @@
+_homepage:
+    pattern:  /
+    defaults: { _controller: ParameterBundle:Default:index }
+
+parameter_homepage:
+    pattern:  /{param}
+    defaults: { _controller: ParameterBundle:Default:index }
