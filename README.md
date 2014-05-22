@@ -3,7 +3,7 @@ samples
 
 Sample codes for employers
 
-(I'm not allowed to share full project codes because they are belong to companies that I've worked)
+(I'm not allowed to share full project codes because they belong to companies that I've worked)
 
 - bing_image.php; *functional*; searches on bing image api and saves as a file the results.
 - feed_getir.php; *all-in-one-page*; a mashup script which retrieves user data from facebook, twitter and foursquare. uses rest apis and oauth2.
